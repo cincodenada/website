@@ -67,10 +67,6 @@ sudo mv minikube /usr/local/bin
 
 ### Linux
 
-{{< note >}}
-This document shows you how to install Minikube on Linux using a static binary. For alternative Linux installation methods, see [Other Ways to Install](https://github.com/kubernetes/minikube#other-ways-to-install) in the official Minikube GitHub repository.
-{{< /note >}}
-
 You can install Minikube on Linux by downloading a static binary:
 
 ```shell
